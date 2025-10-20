@@ -1,1 +1,1 @@
-![Movie Review Website Screenshot](assets/img/preview.png)
+![Movie Review Website Screenshot](imgs/moviezone.png)
